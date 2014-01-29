@@ -3,27 +3,7 @@
 # Written by Evan Tschuy
 # v0.9.0
 # tschuye@onid.oregonstate.edu
-# 28 January 2014
-# Changelog:
-#   - v0.9.1:
-#        Various bugfixes! :D
-#   - v0.9.0:
-#        Now in function form!
-#        Added ability to add items to database from within app
-#        Implemented menu items for reload, add, and quit
-#   - v0.6.0:
-#        Added loop to continuously run in the background
-#   - v0.5.1:
-#        Added pricing info to inventory.dat
-# Features:
-#   - Searches inventory.dat for matching item in left column
-#   - Outputs all matches, and location from second column
-#
-# Bugs/Future Updates:
-#   - There's nothing really in the database yet
-#
-# How to use:
-#   - 
+# 28 January 2014 
 
 # Inventory.dat location
 INVENTORY=/home/tschuy/Downloads/inventory.dat
